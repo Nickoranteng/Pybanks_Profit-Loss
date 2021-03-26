@@ -1,7 +1,7 @@
 
 # Programming Languages
-Python
-Jupyter Notebook
+* Python
+* Jupyter Notebook
 
 
 # PyBank
