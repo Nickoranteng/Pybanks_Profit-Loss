@@ -5,7 +5,7 @@ Python
 
 
 # PyBank
-
+# Jupyter Notebook
 
 
 * Your task is to create a Python script that analyzes the records to calculate each of the following:
