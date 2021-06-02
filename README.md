@@ -22,15 +22,7 @@
 
 # Screen Shots
 
-  ```text
-  Financial Analysis
-  ----------------------------
-  Total Months: 86
-  Total: $38382578
-  Average  Change: $-2315.12
-  Greatest Increase in Profits: Feb-2012 ($1926159)
-  Greatest Decrease in Profits: Sep-2013 ($-2196167)
-  ```
+ 
   
   ![revenue-per-lead](https://user-images.githubusercontent.com/71161293/110715463-4889b900-81d3-11eb-9793-6fad25061564.png)
   
