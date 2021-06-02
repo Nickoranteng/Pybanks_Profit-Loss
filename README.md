@@ -20,7 +20,7 @@
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-* As an example, your analysis should look similar to the one below:
+# Screen Shots
 
   ```text
   Financial Analysis
